@@ -21,7 +21,7 @@ categories:
 
 Hi! I’m Forest 👋
 
-I’m a computer science student with honours in game development at Carleton
+I’m a computer science,knk
 University in Ottawa, Canada 🇨🇦 I love running any events in the game,
 security, backend, and cloud spaces. Some of my favorites are game jams,
 security CTFs, and interactive cloud workshops.
